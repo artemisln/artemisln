@@ -1,9 +1,2 @@
-- 👋 Hi, I’m @artemisln
-- 👀 I’m interested in coding and music
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me, my e-mail: artemis.leona@gmail.com
-
-<!---
-artemisln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, my name is Artemis, I'm 15 years old and I have been interested in coding for five years. I'm currently learning NPM.
+- 👀 I come from Greece and I'm looking forward to studying computer science once I finish high school. 
