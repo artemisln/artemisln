@@ -1,2 +1,2 @@
-- 👋 Hi, my name is Artemis, I'm 15 years old and I have been interested in coding for five years. I'm currently learning JS.
+- 👋 Hi, my name is Artemis, I'm 15 years old and I have been interested in coding for five years. I'm currently learning Machine Learning and Data Management.
 - 👀 I come from Greece and I'm looking forward to studying computer science once I finish high school. 
