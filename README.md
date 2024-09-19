@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artemis</h1>
-<h3 align="center">An aspiring computer scientist (high school student) from Greece</h3>
-
-- 🌱 I’m currently learning **TensorFlow and Deep Learning**
+<h3 align="center">An Informatics & Telecommunications student from Greece</h3>
 
 - I enjoy competing in [hackathons](https://devpost.com/artemisln?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
