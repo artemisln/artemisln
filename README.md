@@ -1,6 +1,6 @@
 # hii i'm artemis 👋
 
-19 → writing code since the lockdown
+20 → writing code since the lockdown
 currently: software engineer @ **[NOFire](https://www.nofire.ai/)**
 
 ```js
@@ -8,8 +8,8 @@ const artemis = {
   role: "software engineer",
   location: "Athens 🇬🇷",
   hackathons: "4 wins / 15 attended",
-  socialReach: "300k+ monthly views",
-  speaking: ["DevConf US", "React Summit", "Open Conf" "and more"],
+  socialReach: "600k+ monthly views",
+  speaking: ["DevConf US", "SREday SF", "React Summit", "Open Conf", "and more"],
   previouslyBuilt: ["KanoActive", "KanoParty"],
 };
 ```
@@ -20,8 +20,8 @@ const artemis = {
 - 🐍 co-running **[Athens Python Meetups](https://www.meetup.com/athens-python-users-meetup/)**, come nerd out with us
 - 🎓 studying IT @ **[NKUA](https://www.di.uoa.gr/)** (3rd year still)
 - 🎤 giving talks at conferences
-- 📸 300k+ monthly views across social media
-- 🔗 links to everything → **[my socials](https://artemiscodes.com/links/)**
+- 📸 600k+ monthly views across social media
+- 🔗 links to everything → **[LinkedIn](https://www.linkedin.com/in/artemisln/)** · **[YouTube](https://www.youtube.com/@artemiscodes)**
 - 🏗️ previously built **KanoActive** and **KanoParty**
 
 ## stack i actually reach for
