@@ -17,7 +17,7 @@ Now I'm a software engineer and DevRel at [NOFire AI](https://www.nofire.ai/), w
 | | |
 |---|---|
 | [**palermo**](https://github.com/artemisln/palermo) | The Greek Mafia party game on one phone, no narrator needed. About 1,000 people used it in its first two days, after one video. |
-| [**edit-greek-reel**](https://github.com/artemisln/edit-greek-reel) | The Claude Code skill I edit my videos with: trims the silences, adds Greek subtitles, zooms and sound effects. Other creators use it now too. |
+| [**edit-reel**](https://github.com/artemisln/edit-reel) | The Claude skills that edit my videos, so I haven't edited one by hand in 8 months: they cut the silences and retakes and add subtitles in any language, zooms and sound effects. 6 skills, installable from GitHub. Other creators use it too. |
 | [**uxslop**](https://uxslop.com) | Roasts your website the way your ideal customer would, then hands your coding agent the fixes. Closed source, try it on your own site. |
 | [**epirus-shield**](https://github.com/artemisln/epirus-shield) | Real-time bank-scam protection demo for iOS, built at the EpirusBank hackathon. |
 
